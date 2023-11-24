@@ -71,13 +71,13 @@ template <class S>
         break;
     }
     
-  } */
+  } 
 
   // Problem:
 
   Basic c++ example:
   1. Area of a circle '
-  2. Circumfernace of a cirle*/
+  2. Circumfernace of a cirle
   class circle
   {
      private:
