@@ -11,3 +11,6 @@ int main(){
         cout << num << " is an odd number." << endl;
     }
 }
+/*Enter a number: 5
+5 is an odd number.
+*/

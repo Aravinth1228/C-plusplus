@@ -10,3 +10,8 @@ int main(){
     b = temp;
     cout << "After swapping: " << a << " " << b << endl;
 }
+/*Enter two numbers to swap: 
+5
+6
+After swapping: 6 5
+*/

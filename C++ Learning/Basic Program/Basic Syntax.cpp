@@ -6,3 +6,6 @@ int main(){
     cout << "Welcome to C++ programming." << endl;
     return 0;
 }
+/*Hello, World!
+Welcome to C++ programming.
+*/
