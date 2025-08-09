@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+    int a,b,temp;
+    cout  << "Enter two numbers to swap: " << endl;
+    cin >> a >> b;
+    temp = a;
+    a =b;
+    b = temp;
+    cout << "After swapping: " << a << " " << b << endl;
+}
